@@ -240,5 +240,3 @@ Frontend Developer | PERN Stack | Computer Science Student
 📫 Contact: [LinkedIn](https://linkedin.com/in/your-link) • [GitHub](https://github.com/your-username)
 
 ---
-
-Would you like me to make this into a downloadable `.md` file you can drag straight into your React project?
