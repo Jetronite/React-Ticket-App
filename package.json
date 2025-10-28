@@ -1,6 +1,6 @@
 {
+  "homepage": "https://Jetronite.github.io/React-Ticket-App",
   "name": "ticket-app-react",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -9,6 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  
   "dependencies": {
     "bootstrap": "^5.3.8",
     "bootstrap-icons": "^1.13.1",
